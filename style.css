@@ -8,5 +8,14 @@ body{
 header{
     border-bottom: solid 2px rgb(79, 149, 240);
     padding: 20px;
-    font-size: 100px;
+    font-size: 30px;
+}
+h1{
+    color: rgb 251, 241, 241;
+    font-size: 28px;
+
+}
+p{ 
+    color: rgb(114, 17, 17);
+
 }

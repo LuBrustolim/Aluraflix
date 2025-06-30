@@ -19,3 +19,12 @@ p{
     color: rgb(114, 17, 17);
 
 }
+section{
+    background: rgb(103, 47, 159);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+
+
+}
